@@ -51,13 +51,13 @@ and you should be able to see `numpy` and `pandas` there.
 
 **Note**: this section assumes that you are up to date with your milestones, and have
 pushed your exported environment file to your *personal fork* of the
-`practical-programming-in-chemistry-milestones` repository. If this is not the case,
+`ppchem` repository. If this is not the case,
 make sure you have followed all of the instructions in the Week 1 exercises.
 
 Then, follow these instructions:
 
 1. In your terminal / powershell application, navigate to your personal
-`<username>/practical-programming-in-chemistry-milestones` repository.
+`<username>/ppchem` repository.
 1. Make sure you have activated your environment: `conda activate ppchem` (or whatever
    you named your env)
 1. Install the new package: `pip install matplotlib`
